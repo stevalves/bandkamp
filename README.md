@@ -1,4 +1,4 @@
-# M5 - BandKamp Generic View
+# BandKamp Generic View
 
 * [_Documentação_](https://bandkamp-stevalves.onrender.com/api/docs)
 
